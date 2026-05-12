@@ -1,7 +1,7 @@
 {
   "leadId": "f62229d0-f6a8-4fba-b366-e0693f04fd01",
   "businessName": "Стоматология На Зубовском",
-  "lovableProjectId": "cdda11df-cbf7-493b-93f2-b68b0f650eb8",
   "publicUrl": "https://webstudio.1true.ru/projects/stomatologiya-na-zubovskom-f62229d0/",
-  "publishedToGitHubAt": "2026-05-10T13:16:45.435Z"
+  "fallbackReason": "Lovable create_project did not return project_id",
+  "publishedToGitHubAt": "2026-05-12T13:45:28.156Z"
 }
